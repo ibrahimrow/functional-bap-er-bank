@@ -1,0 +1,1 @@
+console.log('amk lagbe nh ar tar')

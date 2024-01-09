@@ -1,0 +1,1 @@
+console.log('chay ar tha k amr motho kre')
